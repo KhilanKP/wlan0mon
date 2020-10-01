@@ -1,4 +1,6 @@
 ## Usage
+Not for Termux, only for Kali Distros(Nethunter tested), ideal for 
+Rooted Devices.
 ```
 git clone https://github.com/ripunk/wlan0mon.git
 
